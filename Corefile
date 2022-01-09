@@ -2,7 +2,6 @@
    ads {
         log
         strict-default-lists
-        whitelist https://files.krnl.eu/whitelist.txt
         target 10.133.7.8
    }
    forward . tls://1.1.1.1 {

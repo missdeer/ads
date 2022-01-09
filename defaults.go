@@ -72,7 +72,7 @@ var strictDefaultBlacklists = []string{
 }
 
 var strictDefaultWhitelists = []string{
-	"https://raw.github.com/c-mueller/ads/master/lists/strict-whitelist.txt",
+	"https://raw.github.com/missdeer/ads/master/lists/strict-whitelist.txt",
 }
 
 const defaultIPv4ResolutionIP = "127.0.0.1"
